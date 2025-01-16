@@ -26,7 +26,7 @@ rootProject.allprojects {
 apply plugin: 'com.android.library'
 
 android {
-    compileSdkVersion 30
+    compileSdkVersion 31
     namespace 'com.aloisdeniel.geocoder'
     //buildToolsVersion '28.0.3'
 
